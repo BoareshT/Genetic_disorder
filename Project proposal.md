@@ -17,15 +17,15 @@ Name: Taha H
 -	Patient Age, Gender, Place of birth, Blood cell count, Genes in mother's side, Inherited from father, Mother's age, Father's age, Symptoms, Tests.
 
 * If modeling, what will you predict as your target?
-I.	Genetic disorder.
-II.	Disorder subclass.
+-	Genetic disorder.
+
 
 # Tools:
 
 * How do you intend to meet the tools requirement of the project? 
 -	Data preprocessing: Pandas, Numpy.
--	Model: KNN.
--	Data visualization: Seaborn, Plotly.
+-	Model: SKlearn.
+-	Data visualization: Matplotlib, Seaborn, Plotly.
 	
 * Are you planning in advance to need or use additional tools beyond those required?
 -	Yes

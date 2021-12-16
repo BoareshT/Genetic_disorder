@@ -19,8 +19,6 @@ The dataset I’m going to use is part of a competition lunched by hackerearth.c
 
 -  Genetic disorder.
 
--  Disorder subclass.
-
 
 ### **Tools:**
 

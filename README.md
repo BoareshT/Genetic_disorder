@@ -26,8 +26,8 @@ The dataset I’m going to use is part of a competition lunched by hackerearth.c
 
 **How do you intend to meet the tools requirement of the project?** 
 -	**Data preprocessing:** Pandas, Numpy.
--	**Model:** KNN.
--	**Data visualization:** Seaborn, Plotly.
+-	**Model:** SKlearn.
+-	**Data visualization:** Matplotlib, Seaborn, Plotly.
 	
 **Are you planning in advance to need or use additional tools beyond those required?**
 
